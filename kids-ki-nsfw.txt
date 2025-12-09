@@ -1,0 +1,48 @@
+# =========================================================
+# Kinder-KI-/NSFW-Blacklist (DNS)
+# zonfacter/adguard-kids-filters
+# Zweck:
+#  - KI-Nacktbilder
+#  - Deepfake-Nudes
+#  - Undress/Nudify-KI
+#  - Porn-/Hentai-KI-Generatoren
+# =========================================================
+
+# --- KI-Nudify / Deepfake-Nude-Generatoren ---
+polybuzz.ai
+nudify.pro
+nudifyai.app
+nudify.cc
+nudifyai.net
+undress.ai
+undress.app
+undress.vip
+magicundress.com
+deepnude.cc
+deepnude.to
+deepnude.ai
+deepnudepro.com
+deepnude.online
+deepnude.life
+deep-nude.com
+
+# --- Deepfake-Porn / Gesichtstausch ---
+deepfakeporn.ai
+deepfakeporn.xyz
+deepfakepornai.com
+deepfakegenerator.com
+faceswapper.ai
+facefusion.ai
+
+# --- NSFW-/Porn-/Hentai-KI-Generatoren ---
+open-nsfw.com
+pornify.ai
+pornpen.ai
+hentaiai.org
+ai-hentai.net
+ai-hentai.cc
+nsfwcharacter.ai
+ai-nsfw.com
+nsfwgen.ai
+sexygpt.ai
+hotify.ai
