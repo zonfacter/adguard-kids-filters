@@ -1,0 +1,108 @@
+! =======================================================================
+!  KIDS – AI-UNDRESS / NUDIFY / DEEPNUDE / NACKT-DEEPFAKES
+!  Quelle: Eltern- & Schul-Hinweise, NGOs, Rechtsdokumente (nur Sperr-Zweck)
+! =======================================================================
+
+! --- Konkrete bekannte Domains / Subdomains ---
+
+||deepnude.gg^
+||app.deepnude.gg^
+||ww12.deepnude.gg^
+||deepnude.gg.io^
+||deepnude.ca^
+
+||nudify.online^
+||nudify.me^
+
+||undress.app^
+||undress.cc^
+
+||okbra.net^
+||dessi.ai^
+
+! Plattformen, die explizit als „AI Undresser / remove clothes“ beworben werden
+||undresser.ai^
+||softorbits.net^
+||softorbits.de^
+||softorbits.com^
+||mimicpc.com^
+||photoai.me^
+||soft112.com^
+||whatsthebigdata.com^
+
+! Nudify-/Deepnude-Plattformen & Verzeichnisse
+||thataicollection.com^
+||topai.tools^
+||semrush.com^       ! (wird u.U. schon global genutzt – nur wenn du es im Kinder-VLAN wirklich sperren willst)
+
+! --- Generische Keyword-Blocks für Klon-Domains -----------------------
+! Diese Regeln blocken ALLE Domains, die den String im Hostnamen tragen.
+! Damit erwischst du viele Klone, ohne jede TLD zu kennen.
+
+||deepnude^
+||deepnudes^
+||nudify^
+||deepnudeai^
+||nudifier^
+||nudified^
+
+||undressai^
+||ai-undress^
+||undresser^
+||undressly^
+
+||ppnude^
+||undressbaby^
+||undressher^
+||deepnudenow^
+||undresslove^
+
+||nufa-ai^
+||nufaai^
+||nufa.app^
+||nufa-ai-body-photo-editor^
+
+! =======================================================================
+!  OPTIONAL: NSFW-AI-IMAGE-GENERATOR / „NSFW AI GENERATOR“-PLATTFORMEN
+!  (Block im Kinder- oder Gäste-VLAN i.d.R. sinnvoll)
+! =======================================================================
+
+||nudify.me^
+||nudifyapp^
+||nudify-photo^
+
+||candy.ai^
+||candyai.com^
+||candy.ai^
+||candyai.^
+
+||soulgen^
+||promptchan^
+||genomis^          ! Leak von AI-CSAM-Bildern laut Recherche
+
+! =======================================================================
+!  OPTIONAL: AI-COMPANION / „AI GIRLFRIEND / BOYFRIEND“ / ROMANTIC BOTS
+!  (Ablenkung + Sexualisierung; du kannst diese Sektion getrennt aktivieren)
+! =======================================================================
+
+! Bekannte AI-Companions / AI-Girlfriend-Plattformen (Eltern-Safety-Guides)
+||replika.ai^
+||replika.com^
+||character.ai^
+||crushon.ai^
+||nomi.ai^
+||animaapp.ai^
+||igirl.ai^
+||iboyfriend.ai^
+||girlfriendgpt^
+||buddyq^
+||talkie^
+||ai-girlfriend^
+||ai-boyfriend^
+||nsfw-ai-chat^
+||nsfw-ai-generator^
+
+! Generischer Keyword-Block für „AI Girlfriend/Boyfriend“ Domains
+||aigirlfriend^
+||aiboyfriend^
+||ai-companion^
