@@ -1,0 +1,28 @@
+# =========================================================
+# Kinder-KI-Chatbots & "AI-Girlfriends"
+# zonfacter/adguard-kids-filters
+# Zweck:
+#  - emotionale Bindung an Chatbots verhindern
+#  - "AI-Girlfriend"/"Boyfriend" Apps/Seiten blocken
+#  - riskante Text-KI für 12- und 14-Jährige sperren
+# =========================================================
+
+# --- AI-Girlfriend / Roleplay / NSFW-Chatbots ---
+replika.ai
+character.ai
+c.ai
+janitorai.com
+janitorai.chat
+novelai.net
+nsfwchatbot.com
+nsfw-ai-chat.com
+
+# --- Generelle KI-Chatbots (nur für Kinderprofile sperren!) ---
+chatgpt.com
+openai.com
+platform.openai.com
+poe.com
+perplexity.ai
+pi.ai
+claude.ai
+gemini.google.com
