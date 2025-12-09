@@ -1,0 +1,51 @@
+! =========================================================
+! Kids DNS Regex / Pattern Rules
+! zonfacter/adguard-kids-filters
+! Zweck:
+!  - generische Muster für neue KI-/NSFW-/Deepfake-Domains
+!  - greift, auch wenn einzelne Domains noch nicht gelistet sind
+! Format:
+!  - AdGuard DNS / Adblock-Style Syntax
+!  - Kommentare beginnen mit "!"
+! =========================================================
+
+! ---------------------------------------------------------
+! 1) Domains mit "nudify" / "undress" / "deepnude"
+! ---------------------------------------------------------
+
+||*nudify*^
+||*nudefy*^
+||*undress*^
+||*deepnude*^
+||*deep-nude*^
+
+! ---------------------------------------------------------
+! 2) Domains mit "deepfake" / "nsfw" / "hentai"
+! ---------------------------------------------------------
+
+||*deepfake*^
+||*deep-fake*^
+||*nsfw*^$all
+||*hentai*^
+
+! ---------------------------------------------------------
+! 3) Allgemeine Risk-Words für KI-Porn-Dienste
+! ---------------------------------------------------------
+
+||*pornai*^
+||*ai-porn*^
+||*sexgpt*^
+||*sexygpt*^
+||*hotgpt*^
+||*lewd*^
+||*lewdai*^
+
+! ---------------------------------------------------------
+! 4) (Optional) "girlfriend"-KIs / Roleplay-AI
+!    Falls zu aggressiv -> einzelne Zeilen wieder entfernen.
+! ---------------------------------------------------------
+
+||*ai-girlfriend*^
+||*aigirlfriend*^
+||*virtual-girlfriend*^
+||*waifu*ai*^
