@@ -1,0 +1,19 @@
+# =========================================================
+# Kinder-Sozial-/Ablenkungsbremse (Soft)
+# zonfacter/adguard-kids-filters
+# Zweck:
+#  - einige besonders problematische Social-/Fun-Seiten sperren
+#  - NICHT alle Social-Media komplett blocken
+# =========================================================
+
+# Beispiel: Hardcore-18+ Communities, Meme-/Pornmix, etc.
+4chan.org
+8kun.top
+omegle.com
+ome.tv
+
+# Optional: bei Bedarf ergänzen
+#reddit.com
+#discord.com
+#tiktok.com
+#instagram.com
